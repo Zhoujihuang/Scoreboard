@@ -1,4 +1,6 @@
 # Scoreboard [![Build Status](https://app.travis-ci.com/vatbub/Scoreboard.svg?branch=master)](https://app.travis-ci.com/vatbub/Scoreboard)
+Updated for MCR game.
+
 A simple app to keep track of player scores during any high- or lowscore game.
 
 Following the KISS-principle, this app consists of a simple table in which
